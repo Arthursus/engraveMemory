@@ -1,1 +1,6 @@
 mode: Mainline
+
+branches:
+  master:
+    is-mainline: true
+    regex: (release|master)
